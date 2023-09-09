@@ -11,7 +11,7 @@ webapp ที่ใช้ในการ generate token line notify หรือ
 
 ## Download File
 1. สำเนา [google sheet](https://docs.google.com/spreadsheets/d/1wxeDZCrkdQWH30KmTtvUvO6XNjAqIjVk9Xl3VyMopVg/copy) 
-2. ดาวน์โหลด File ทั้งหมด
+2. [ดาวน์โหลด File ทั้งหมด](https://github.com/waroon01/genTokenNotify)
 
 
 ## content index
